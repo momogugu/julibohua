@@ -32,5 +32,6 @@ img {
 }
 
 .clearfix {
-    zoom: 1;
+    *display: table;
+    *zoom: 1;
 }
