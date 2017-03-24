@@ -1,0 +1,35 @@
+{
+  "name": "page-boilerplate",
+  "version": "1.0.0",
+  "description": "page-boilerplate",
+  "main": "",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/clouddisk/page-boilerplate.git"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "mogu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/clouddisk/page-boilerplate/issues"
+  },
+  "homepage": "https://github.com/clouddisk/page-boilerplate#readme",
+  "devDependencies": {
+    "browser-sync": "^2.18.8",
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-cached": "^1.1.1",
+    "gulp-clean-css": "^3.0.2",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-jshint": "^2.0.4",
+    "gulp-rev-append": "^0.1.8",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglify": "^2.0.1",
+    "jshint": "^2.9.4",
+    "run-sequence": "^1.2.2"
+  }
+}
