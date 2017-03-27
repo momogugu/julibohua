@@ -4,7 +4,6 @@
 	margin: 0 auto;
 	color: #fff;
 	font-size: 16px;
-    font-weight: normal;
 }
 
 .banner-content .logo img {
@@ -20,7 +19,7 @@
 .banner-section {
 	width: 100%;
 	height: 840px;
-    background: url('../images/banner.png') center;
+    background: url('../images/banner.jpg') center;
     background-size: cover;
 }
 
@@ -63,14 +62,12 @@
 
 .img-triple .text h2 {
     font-size: 34px;
-    font-weight: normal;
     margin-bottom: 16px;
 }
 
 .img-triple .text p {
     color: #fff;
     font-size: 16px;
-    font-weight: normal;
     margin-bottom: 8px;
 }
 
@@ -129,14 +126,12 @@
 
 .content h1 {
     font-size: 48px;
-    font-weight: normal;
     color: #555;
     margin-bottom: 42px;
 }
 
 .content p {
     font-size: 24px;
-    font-weight: normal;
     color: #666;
     margin-bottom: 8px;
 }
@@ -186,7 +181,6 @@
     text-align: center;
     color: #fff;
     font-size: 24px;
-    font-weight: normal;
     background: rgba(0,0,0,0.4);
     *filter:progid:DXImageTransform.Microsoft.gradient(startcolorstr=#66000000,endcolorstr=#66000000);
     position: absolute;
@@ -227,13 +221,11 @@
 
 .container h3 {
     font-size: 36px;
-    font-weight: normal;
     margin-bottom: 20px;
 }
 
 .container p {
     font-size: 16px;
-    font-weight: normal;
 }
 
 .container .center {
@@ -295,7 +287,6 @@
 
 .footer-content p {
     font-size: 14px;
-    font-weight: normal;
     margin-bottom: 2px;
     color: #333;
     text-align: center;
@@ -313,7 +304,6 @@
     width: 1200px;
     margin: 0 auto;
     font-size: 14px;
-    font-weight: normal;
     color: #333;
     margin-top: 93px;
     text-align: center;
